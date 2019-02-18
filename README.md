@@ -5,7 +5,7 @@ IUT Sophia-Antipolis - DUT 2018/2019 - Web
 
 ### Installation
 
- - [ ] Require [Composer](https://getcomposer.org/) to run.
+ - [ ] Require [Composer](https ://getcomposer.org/) to run.
 
 ```sh
 $ composer install
